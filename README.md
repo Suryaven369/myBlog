@@ -1,4 +1,4 @@
-# Norlin
+# fREE Norlin
 
 Norlin is a creative modern theme with a clean design specially created for dark themes lovers.
 
