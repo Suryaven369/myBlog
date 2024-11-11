@@ -8,6 +8,12 @@
 
 <!-- begin header -->
 <header class="header {{ class }}">
+  <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
+  <script>
+  window.CMS_CONFIG = {
+    "config_url": "/admin/config.yml"  // Ensure this matches the correct relative path to config.yml
+  };
+  </script>
   <div class="container">
     <div class="row">
       <div class="header__inner col col-12">
